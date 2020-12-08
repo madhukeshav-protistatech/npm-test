@@ -1,0 +1,18 @@
+.footerOuter {
+  position: inherit;
+  padding-left: 18%;
+  bottom: 0px;
+}
+.footer_para {
+  text-align: center;
+  color: #fff;
+}
+.innter_footer {
+  padding: 15px;
+  text-align: center;
+  background-color: #1976d2;
+  color: #fff;
+}
+.footer_copyright_link {
+  color: #fff;
+}

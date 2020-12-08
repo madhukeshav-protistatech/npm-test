@@ -1,0 +1,36 @@
+:root {
+  /* Color */
+  --primaryColor: #007bff;
+  --secondryColor: #6c757d;
+  --sucessColor: #28a745;
+  --dangerColor: #dc3545;
+  --warningrColor: #ffc107;
+  --infoColor: #17a2b8;
+  --lightColor: #f8f9fa;
+  --darkColor: #343a40;
+  --linkColor: #007bff;
+
+  /* Font family */
+  --paraFont: ;
+  --btnFont: ;
+  --headerFont: ;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

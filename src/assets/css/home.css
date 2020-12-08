@@ -1,0 +1,24 @@
+.home_div {
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 15vh;
+  text-align: center;
+  margin-top: 15vh;
+  min-height: 85vh;
+  text-align: center;
+}
+.getstartedDiv {
+  text-align: center;
+}
+.btnLink {
+  width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+@media only screen and (max-width: 900px) {
+  .home_div {
+    width: 90%;
+  }
+}

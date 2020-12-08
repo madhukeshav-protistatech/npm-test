@@ -1,0 +1,16 @@
+.welcomeImg {
+  width: 100%;
+}
+.page_container {
+  min-height: 100vh;
+  padding: 15px;
+}
+.Page_para {
+  font-size: 18px;
+  text-align: justify;
+  margin-bottom: 50px;
+}
+.buttonposition {
+  float: right;
+}
+
